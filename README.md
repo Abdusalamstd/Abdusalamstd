@@ -1,6 +1,3 @@
-
- 
-
 - 👋 Hi, I’m @Abdusalamstd
 - 🚀 I use daily:
   ![$\LaTeX$](https://img.shields.io/badge/-Tex-black?style=plastic&logo=tex)
@@ -9,7 +6,9 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 
-- 👀 I’m interested in Math&C,C艹 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+- 👀 I’m interested in Math&C,C艹 
+  ![](https://img.shields.io/badge/Math-Algebra-red.svg)]
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
 - 🌱 I’m currently learning Python ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 - 💞️ I’m looking to collaborate on U
 - 📫 How to reach me ...
