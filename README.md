@@ -1,5 +1,5 @@
 
-![](https://github-readme-stats.vercel.app/api?username=Abduslamstd)
+![](https://github-readme-stats.vercel.app/api?username=Abdusalamstd)
 
 
 - 👋 Hi, I’m @Abdusalamstd
