@@ -1,7 +1,6 @@
 [![](https://github-readme-stats.vercel.app/api?username=Abdusalamstd&theme=dark&show_icons=true)](https://github.com/Abdusalamstd)
 
 
-[![](https://github-readme-stackoverflow.vercel.app/?userID=9418800)](https://stackoverflow.com/users/9418800/moshfiqrony)
 
 ![](https://github-readme-stats.vercel.app/api?username=Abdusalamstd&theme=dark)
 
