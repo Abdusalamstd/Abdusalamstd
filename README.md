@@ -1,3 +1,7 @@
+
+![](https://github-readme-stats.vercel.app/api?username=Abduslamstd)
+
+
 - 👋 Hi, I’m @Abdusalamstd
 - 👀 I’m interested in Math&C
 - 🌱 I’m currently learning Python
